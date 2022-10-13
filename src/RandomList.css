@@ -10,3 +10,6 @@
     filter: blur(0.5px);
     background-image: radial-gradient(#eee,#DECBA4, #3E5151);
 }
+.numbers div:last-child{
+    background-image: radial-gradient(#d3a4de, #be3150);
+}
