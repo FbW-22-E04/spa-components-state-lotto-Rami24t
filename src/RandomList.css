@@ -1,0 +1,12 @@
+.numbers div{
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    padding: 10px;
+    aspect-ratio: 1;
+    width: 20px;
+    height: 20px;
+    margin: 12px;
+    text-align: center;
+    filter: blur(0.5px);
+    background-image: radial-gradient(#eee,#DECBA4, #3E5151);
+}
