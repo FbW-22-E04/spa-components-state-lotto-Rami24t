@@ -8,6 +8,8 @@
     margin: 12px;
     text-align: center;
     filter: blur(0.5px);
+    color: #222c2c;
+    font-weight: bold;
     background-image: radial-gradient(#eee,#DECBA4, #3E5151);
 }
 .numbers div:last-child{
