@@ -2,7 +2,7 @@ import './RandomList.css';
 import { useState } from "react";
 
 function newRandomNumber(){
-    return Math.floor(Math.random()*10)+1; // gives 1 to 10
+    return Math.floor(Math.random()*49)+1; // gives 1 to 10
 }
 function newArray(){
     const randomArray = [];
